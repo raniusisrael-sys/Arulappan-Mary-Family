@@ -1,4 +1,4 @@
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbxE7p26PRRo8IHiDE6mKYbQkc0MEX__Ydof1kLesycf66veg2WhliJuF11C61zlzu1Z8Q/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbwL4o3llKO9qY57sxnuIBALe4qgWgrYRgrnfUf3seN7h_HlqDXS1rJOUkWx5nrMMVCytA/exec";
 const SCRIPT_URL_WITH_CALLBACK = `${GAS_API_URL}?callback=renderTreeCallback`;
 
 let familyDataArray = [];
